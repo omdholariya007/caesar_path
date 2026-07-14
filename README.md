@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omdholariya007/caesar_path/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/omdholariya007/caesar_path/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

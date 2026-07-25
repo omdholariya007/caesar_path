@@ -8,6 +8,7 @@ public:
                 y = n%10;
             }
             else if(n%10>o) o = n%10;
+            if(o == 9 && y == 9) return 81;
         }
         return o*y;
     }

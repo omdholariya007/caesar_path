@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omdholariya007/caesar_path/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/omdholariya007/caesar_path/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |

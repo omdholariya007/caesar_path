@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Tree
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search Tree
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/omdholariya007/caesar_path/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->

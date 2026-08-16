@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0070-climbing-stairs) |
+| [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/omdholariya007/caesar_path/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
@@ -238,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

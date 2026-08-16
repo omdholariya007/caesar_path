@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search Tree
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -228,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->

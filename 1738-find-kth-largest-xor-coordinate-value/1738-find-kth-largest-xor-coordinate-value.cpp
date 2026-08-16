@@ -9,11 +9,7 @@ public:
 
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
-                x[i][j] = matrix[i-1][j-1]
-                        ^ x[i-1][j]
-                        ^ x[i][j-1]
-                        ^ x[i-1][j-1];
-
+                x[i][j] = matrix[i-1][j-1] ^ x[i-1][j] ^ x[i][j-1]^ x[i-1][j-1];
                 v.push_back(x[i][j]);
             }
         }

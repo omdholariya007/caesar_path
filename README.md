@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0070-climbing-stairs) |
 | [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/omdholariya007/caesar_path/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/omdholariya007/caesar_path/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
+| [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |

@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omdholariya007/caesar_path/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/omdholariya007/caesar_path/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/omdholariya007/caesar_path/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/omdholariya007/caesar_path/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

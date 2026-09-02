@@ -7,6 +7,7 @@ public:
            if(nums[i-1]>nums[i] ){
             if(nums[i-1] > mx)mx = nums[i-1];
             if(nums[i]<mn)mn = nums[i];
+            i=i;
            } 
         }
         int st=0,end = nums.size();

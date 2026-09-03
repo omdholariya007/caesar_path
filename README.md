@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/omdholariya007/caesar_path/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/omdholariya007/caesar_path/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omdholariya007/caesar_path/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/omdholariya007/caesar_path/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/omdholariya007/caesar_path/tree/master/0024-swap-nodes-in-pairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

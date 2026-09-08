@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/omdholariya007/caesar_path/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/omdholariya007/caesar_path/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/omdholariya007/caesar_path/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Quickselect
 |  |
 | ------- |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->

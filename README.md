@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/omdholariya007/caesar_path/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/omdholariya007/caesar_path/tree/master/0427-construct-quad-tree) |
+| [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Simulation
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
+| [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Quickselect
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/omdholariya007/caesar_path/tree/master/0260-single-number-iii) |
+| [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum

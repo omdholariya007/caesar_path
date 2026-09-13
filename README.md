@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/omdholariya007/caesar_path/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/omdholariya007/caesar_path/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/omdholariya007/caesar_path/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |

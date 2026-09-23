@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/omdholariya007/caesar_path/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
@@ -368,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->

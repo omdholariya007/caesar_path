@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/omdholariya007/caesar_path/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/omdholariya007/caesar_path/tree/master/0763-partition-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/omdholariya007/caesar_path/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/omdholariya007/caesar_path/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/omdholariya007/caesar_path/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Memoization
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |

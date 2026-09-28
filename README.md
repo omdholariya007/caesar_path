@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/omdholariya007/caesar_path/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
+| [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/omdholariya007/caesar_path/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |

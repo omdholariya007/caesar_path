@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
+| [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/omdholariya007/caesar_path/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/omdholariya007/caesar_path/tree/master/0763-partition-labels) |
+| [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
+| [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
+| [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/omdholariya007/caesar_path/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Memoization
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
+| [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |

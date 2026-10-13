@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/omdholariya007/caesar_path/tree/master/0846-hand-of-straights) |
 | [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/omdholariya007/caesar_path/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum

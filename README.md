@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
+| [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/omdholariya007/caesar_path/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Linked List
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
+| [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/omdholariya007/caesar_path/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |

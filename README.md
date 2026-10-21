@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/omdholariya007/caesar_path/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omdholariya007/caesar_path/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/omdholariya007/caesar_path/tree/master/0846-hand-of-straights) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 ## Game Theory
 |  |
 | ------- |

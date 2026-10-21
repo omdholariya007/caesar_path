@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
+| [1323-maximum-69-number](https://github.com/omdholariya007/caesar_path/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/omdholariya007/caesar_path/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1323-maximum-69-number](https://github.com/omdholariya007/caesar_path/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |

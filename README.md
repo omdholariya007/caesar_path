@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/omdholariya007/caesar_path/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2706-buy-two-chocolates](https://github.com/omdholariya007/caesar_path/tree/master/2706-buy-two-chocolates) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/omdholariya007/caesar_path/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/omdholariya007/caesar_path/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/omdholariya007/caesar_path/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2706-buy-two-chocolates](https://github.com/omdholariya007/caesar_path/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/omdholariya007/caesar_path/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/omdholariya007/caesar_path/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/omdholariya007/caesar_path/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |
+| [2706-buy-two-chocolates](https://github.com/omdholariya007/caesar_path/tree/master/2706-buy-two-chocolates) |
 ## Quickselect
 |  |
 | ------- |

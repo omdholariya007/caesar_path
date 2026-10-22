@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/omdholariya007/caesar_path/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/omdholariya007/caesar_path/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/omdholariya007/caesar_path/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |

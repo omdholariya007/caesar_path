@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omdholariya007/caesar_path/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omdholariya007/caesar_path/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/omdholariya007/caesar_path/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/omdholariya007/caesar_path/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/omdholariya007/caesar_path/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0861-score-after-flipping-matrix](https://github.com/omdholariya007/caesar_path/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |

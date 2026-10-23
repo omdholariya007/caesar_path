@@ -1,23 +1,24 @@
+// lengendre's three square theorem 
+// n = (4^a)(8b+7) here 7 is remainder if reminder is 7 
+// then not able to satisfy in 3 numbers
 class Solution {
-    int rec( int i, int n,vector<vector<int>>&v) {
-        if(n == 0)return 0;
-        if (i <= 0 ) return INT_MAX;
-        if(v[i][n]!= -1)return v[i][n];
-        int select = INT_MAX;
-        //if(sqrt(n) >= i) select = rec(i,count+1,n-(i*i),v);
-        if (i * i <= n) {
-            int res = rec(i, n - i * i, v);
-            if (res != INT_MAX) select = 1 + res;
-        }
-        int de = rec(i-1,n,v);
-        return v[i][n]= min(de,select);
-    } 
-
 public:
     int numSquares(int n) {
-        int i = sqrt(n);
-        if( n== 19)return 3; 
-        vector<vector<int>>v(i+1,vector<int>(n+1,-1));
-        return rec(i,n,v);
+        int root = sqrt(n);
+        if(root*root == n)return 1;
+        for(int i = 1 ; i*i <=n ; i++){
+            int s = n- i*i;
+            int sq = sqrt(s);
+            if (s == sq*sq) return 2;
+
+        }
+        int a =0,b=0;
+        while (n%4 == 0 ){
+            //count++;
+            n/=4;
+        }
+        if(n%8 != 7)return 3;
+
+        return 4;
     }
-    };
+};

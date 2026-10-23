@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omdholariya007/caesar_path/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/omdholariya007/caesar_path/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/omdholariya007/caesar_path/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/omdholariya007/caesar_path/tree/master/0372-super-pow) |
 | [0507-perfect-number](https://github.com/omdholariya007/caesar_path/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omdholariya007/caesar_path/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omdholariya007/caesar_path/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/omdholariya007/caesar_path/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/omdholariya007/caesar_path/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
@@ -457,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

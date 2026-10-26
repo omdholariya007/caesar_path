@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/omdholariya007/caesar_path/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/omdholariya007/caesar_path/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/omdholariya007/caesar_path/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/omdholariya007/caesar_path/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/omdholariya007/caesar_path/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/omdholariya007/caesar_path/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/omdholariya007/caesar_path/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/omdholariya007/caesar_path/tree/master/0119-pascals-triangle-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/omdholariya007/caesar_path/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/omdholariya007/caesar_path/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/omdholariya007/caesar_path/tree/master/0427-construct-quad-tree) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/omdholariya007/caesar_path/tree/master/0807-max-increase-to-keep-city-skyline) |

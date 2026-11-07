@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/omdholariya007/caesar_path/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/omdholariya007/caesar_path/tree/master/0605-can-place-flowers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/omdholariya007/caesar_path/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/omdholariya007/caesar_path/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/omdholariya007/caesar_path/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -496,4 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/omdholariya007/caesar_path/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

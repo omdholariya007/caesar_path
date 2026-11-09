@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/omdholariya007/caesar_path/tree/master/0654-maximum-binary-tree) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/omdholariya007/caesar_path/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/omdholariya007/caesar_path/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/omdholariya007/caesar_path/tree/master/0860-lemonade-change) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/omdholariya007/caesar_path/tree/master/1137-n-th-tribonacci-number) |
 | [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/omdholariya007/caesar_path/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/omdholariya007/caesar_path/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/omdholariya007/caesar_path/tree/master/0413-arithmetic-slices) |
 | [0427-construct-quad-tree](https://github.com/omdholariya007/caesar_path/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omdholariya007/caesar_path/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/omdholariya007/caesar_path/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/omdholariya007/caesar_path/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/omdholariya007/caesar_path/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/omdholariya007/caesar_path/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/omdholariya007/caesar_path/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/omdholariya007/caesar_path/tree/master/0646-maximum-length-of-pair-chain) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/omdholariya007/caesar_path/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/omdholariya007/caesar_path/tree/master/0413-arithmetic-slices) |
 | [1763-longest-nice-substring](https://github.com/omdholariya007/caesar_path/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |

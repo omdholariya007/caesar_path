@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/omdholariya007/caesar_path/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/omdholariya007/caesar_path/tree/master/0738-monotone-increasing-digits) |
 | [0932-beautiful-array](https://github.com/omdholariya007/caesar_path/tree/master/0932-beautiful-array) |
+| [1025-divisor-game](https://github.com/omdholariya007/caesar_path/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/omdholariya007/caesar_path/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/omdholariya007/caesar_path/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/omdholariya007/caesar_path/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/omdholariya007/caesar_path/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/omdholariya007/caesar_path/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/omdholariya007/caesar_path/tree/master/1137-n-th-tribonacci-number) |
 | [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/omdholariya007/caesar_path/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/omdholariya007/caesar_path/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Hungarian Algorithm
 |  |
@@ -512,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/omdholariya007/caesar_path/tree/master/0494-target-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/omdholariya007/caesar_path/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/omdholariya007/caesar_path/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omdholariya007/caesar_path/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/omdholariya007/caesar_path/tree/master/1029-two-city-scheduling) |
 | [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
+| [1207-unique-number-of-occurrences](https://github.com/omdholariya007/caesar_path/tree/master/1207-unique-number-of-occurrences) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/omdholariya007/caesar_path/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/omdholariya007/caesar_path/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/omdholariya007/caesar_path/tree/master/0846-hand-of-straights) |
 | [1090-largest-values-from-labels](https://github.com/omdholariya007/caesar_path/tree/master/1090-largest-values-from-labels) |
+| [1207-unique-number-of-occurrences](https://github.com/omdholariya007/caesar_path/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/omdholariya007/caesar_path/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/omdholariya007/caesar_path/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/omdholariya007/caesar_path/tree/master/1512-number-of-good-pairs) |

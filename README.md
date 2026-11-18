@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/omdholariya007/caesar_path/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/omdholariya007/caesar_path/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/omdholariya007/caesar_path/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omdholariya007/caesar_path/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/omdholariya007/caesar_path/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omdholariya007/caesar_path/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/omdholariya007/caesar_path/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/omdholariya007/caesar_path/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/omdholariya007/caesar_path/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdholariya007/caesar_path/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
 ## Knapsack Problem
 |  |
@@ -536,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/omdholariya007/caesar_path/tree/master/2413-smallest-even-multiple) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

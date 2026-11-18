@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/omdholariya007/caesar_path/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1824-minimum-sideway-jumps](https://github.com/omdholariya007/caesar_path/tree/master/1824-minimum-sideway-jumps) |
+| [1929-concatenation-of-array](https://github.com/omdholariya007/caesar_path/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/omdholariya007/caesar_path/tree/master/1975-maximum-matrix-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omdholariya007/caesar_path/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/omdholariya007/caesar_path/tree/master/2126-destroying-asteroids) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/omdholariya007/caesar_path/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/omdholariya007/caesar_path/tree/master/1929-concatenation-of-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/omdholariya007/caesar_path/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |

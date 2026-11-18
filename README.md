@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/omdholariya007/caesar_path/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/omdholariya007/caesar_path/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1739-building-boxes](https://github.com/omdholariya007/caesar_path/tree/master/1739-building-boxes) |
+| [2413-smallest-even-multiple](https://github.com/omdholariya007/caesar_path/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/omdholariya007/caesar_path/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/omdholariya007/caesar_path/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -531,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/omdholariya007/caesar_path/tree/master/1668-maximum-repeating-substring) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/omdholariya007/caesar_path/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

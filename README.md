@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/omdholariya007/caesar_path/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/omdholariya007/caesar_path/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/omdholariya007/caesar_path/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/omdholariya007/caesar_path/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/omdholariya007/caesar_path/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/omdholariya007/caesar_path/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/omdholariya007/caesar_path/tree/master/0324-wiggle-sort-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omdholariya007/caesar_path/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/omdholariya007/caesar_path/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/omdholariya007/caesar_path/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/omdholariya007/caesar_path/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/omdholariya007/caesar_path/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/omdholariya007/caesar_path/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/omdholariya007/caesar_path/tree/master/0763-partition-labels) |
